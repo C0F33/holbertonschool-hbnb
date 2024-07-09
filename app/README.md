@@ -297,6 +297,7 @@ curl http://localhost:8000/places
 
 N/A
 
-## Author
-Nelson Betancourt Aponte
+## Authors
+Angel A. Bermudez
+Nelson E Betancourt
 ---
